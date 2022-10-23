@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Este repositorio contiene el proyecto final del curso de Ciencia de datos Dictado por IBM</h1>
+  <h1>Este repositorio contiene el proyecto final del curso de Ciencia de datos Dictado por IBM a traves de Coursera</h1>
 </div>
 
 <div align="center"> 
