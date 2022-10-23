@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <img src="[readme_img/ingenieria-datos.png](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/d9/0d7c51354a48d2af08be185b6dcbc2/IBM-Logo-White.png?auto=format%2Ccompress&dpr=1&h=70)" width="">
+  <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" width="">
 </div>
 
 
