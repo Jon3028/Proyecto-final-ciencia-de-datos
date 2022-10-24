@@ -5,7 +5,7 @@
 https://www.coursera.org/professional-certificates/certificado-profesional-de-ciencia-de-datos-de-ibm
 
 <div align="center"> 
-  <img src="https://coursera.org/share/aa779d3ae0cb4bd53cb874a5a4bc392a" width="">
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ZKPV57E8RR4P/CERTIFICATE_LANDING_PAGE~ZKPV57E8RR4P.jpeg" width="">
 </div>
 
 
